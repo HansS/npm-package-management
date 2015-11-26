@@ -13,3 +13,12 @@ module.exports = function(p1,p2,...) {
 	  ...;
 	};
 ````
+###Resolving Node Modules
+Node Module Type | how to load module | file location
+--------|---------------------
+core module | var m = require('m'); | root/node_modules
+user module | var um = require('./um') | root
+###Loading User Node Modules either
+* with package.json
+* with index.js // javascript code
+* with index.node // c code
