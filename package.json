@@ -1,0 +1,20 @@
+{
+  "name": "npm-package-management",
+  "version": "1.0.0",
+  "description": "Npm Package Management Basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HansS/npm-package-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HansS/npm-package-management/issues"
+  },
+  "homepage": "https://github.com/HansS/npm-package-management#readme"
+}
