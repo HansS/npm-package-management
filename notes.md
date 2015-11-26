@@ -9,7 +9,7 @@ Node has adopted the CommonJs Standard for creating modules.
 To make Javascript functionality available to a node developer the author of a 
 javascript module has to explicitly export the desired functionality with the keyword
 ````node
-module exports = function(p1,p2,...) {
+module.exports = function(p1,p2,...) {
 	  ...;
 	};
 ````
